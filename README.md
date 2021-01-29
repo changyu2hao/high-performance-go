@@ -11,7 +11,7 @@
 ## 目录
 
 - 序言
-    - [关于本书](https://geektutu.com/post/high-performance-go.html)
+    - [](https://geektutu.com/post/high-performance-go.html)
 
 - 第一章 性能分析
     - [benchmark 基准测试](https://geektutu.com/post/hpg-benchmark.html)
